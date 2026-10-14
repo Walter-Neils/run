@@ -1,3 +1,7 @@
+# Note
+This is vibecoded. I had DeepSeek make it because I thought it'd be handy. It did in fact turn out to be handy, so I'm putting it on GitHub in case some other poor soul wishes to brave the slopfest for a mediocre `run` program.
+
+
 # win-run
 
 A Windows "Run"-style floating launcher for [nixpkgs](https://nixos.org) programs,
